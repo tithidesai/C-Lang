@@ -9,8 +9,7 @@ int main()
     {
             cout<<"student marks pass 35:";
     }
-    else
-    {
+    else{
             cout<<"student marks is not pass 35:";
     }
 }
