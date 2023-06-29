@@ -2,7 +2,7 @@
 #include<iomanip>
 using namespace std;
 class result{
-         int maths,sci,eng,tot;
+         int maths,sci,eng,tot; 
          double per;
          public:
          void setter(){

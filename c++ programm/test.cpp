@@ -8,7 +8,7 @@ class test
           int calcntr()
           {
                    return(nocandidates/100+1);  
-          }
+          } 
           public:
           void schedule()
           {
