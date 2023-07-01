@@ -4,7 +4,7 @@ class Result
 {
         int rno,maths,sci,eng,total;
         char name[20];
-        float per;
+        float per; 
         public:
         Result(){
                 cout<<"enter roll no:";
